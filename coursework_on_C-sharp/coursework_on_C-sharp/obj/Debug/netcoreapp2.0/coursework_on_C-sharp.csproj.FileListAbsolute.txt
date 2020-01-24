@@ -1,0 +1,9 @@
+F:\курсовая\coursework_on_C-sharp\coursework_on_C-sharp\obj\Debug\netcoreapp2.0\coursework_on_C-sharp.csprojAssemblyReference.cache
+F:\курсовая\coursework_on_C-sharp\coursework_on_C-sharp\obj\Debug\netcoreapp2.0\coursework_on_C-sharp.csproj.CoreCompileInputs.cache
+F:\курсовая\coursework_on_C-sharp\coursework_on_C-sharp\obj\Debug\netcoreapp2.0\coursework_on_C-sharp.AssemblyInfoInputs.cache
+F:\курсовая\coursework_on_C-sharp\coursework_on_C-sharp\obj\Debug\netcoreapp2.0\coursework_on_C-sharp.AssemblyInfo.cs
+E:\курсовая\coursework_on_C-sharp\coursework_on_C-sharp\bin\Debug\netcoreapp2.0\coursework_on_C-sharp.deps.json
+E:\курсовая\coursework_on_C-sharp\coursework_on_C-sharp\bin\Debug\netcoreapp2.0\coursework_on_C-sharp.runtimeconfig.json
+E:\курсовая\coursework_on_C-sharp\coursework_on_C-sharp\bin\Debug\netcoreapp2.0\coursework_on_C-sharp.runtimeconfig.dev.json
+E:\курсовая\coursework_on_C-sharp\coursework_on_C-sharp\obj\Debug\netcoreapp2.0\coursework_on_C-sharp.csprojResolveAssemblyReference.cache
+E:\курсовая\coursework_on_C-sharp\coursework_on_C-sharp\obj\Debug\netcoreapp2.0\coursework_on_C-sharp.AssemblyInfo.cs

@@ -1,0 +1,4 @@
+F:\курсовая\coursework_on_C-sharp\coursework_on_C-sharp\obj\Debug\netcoreapp2.1\coursework_on_C-sharp.csprojAssemblyReference.cache
+F:\курсовая\coursework_on_C-sharp\coursework_on_C-sharp\obj\Debug\netcoreapp2.1\coursework_on_C-sharp.csproj.CoreCompileInputs.cache
+F:\курсовая\coursework_on_C-sharp\coursework_on_C-sharp\obj\Debug\netcoreapp2.1\coursework_on_C-sharp.AssemblyInfoInputs.cache
+F:\курсовая\coursework_on_C-sharp\coursework_on_C-sharp\obj\Debug\netcoreapp2.1\coursework_on_C-sharp.AssemblyInfo.cs
